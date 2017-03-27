@@ -1,0 +1,13 @@
+{
+  "name": "parken-save-history",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Elmar Burke <hallo@elmarburke.de>",
+  "license": "MIT",
+  "dependencies": {
+    "nano": "^6.2.0",
+    "node-fetch": "^1.6.3",
+    "yargs": "^7.0.2"
+  },
+  "bin": "./index.js"
+}
